@@ -1,6 +1,11 @@
 Hello World!
 ;-)
 The faculty of Information and Communication Technology.
+<<<<<<< HEAD
 This is my new feture
 add from the master
 
+=======
+This is my new feature
+add from the myNewFeature
+>>>>>>> myNewFeature
